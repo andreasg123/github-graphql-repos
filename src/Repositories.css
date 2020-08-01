@@ -1,0 +1,14 @@
+.Repositories-Repository {
+  margin-top: 1em;
+}
+.Repositories-Name {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}
+.Repositories-Name:hover {
+  text-decoration: underline;
+}
+.Repositories-Branch {
+  margin-left: 2em;
+}
