@@ -17,4 +17,4 @@ While the React app was created as a [Progressive Web App](https://developer.moz
 Access to the GitHub GraphQL API
 --------------------------------
 
-The [GitHub GraphQL API](https://docs.github.com/en/graphql) provides access to information about repositories.  A [personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) is required for access.  In this app, the token is expected in the environment variable `REACT_APP_GITHUB_TOKEN`.  This token can be stored in `.env.local` that is ignored by Git.  The file (`.env.local.example`)[./.env.local.example] shows how the token should be stored.
+The [GitHub GraphQL API](https://docs.github.com/en/graphql) provides access to information about repositories.  A [personal access token](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token) is required for access.  In this app, the token is expected in the environment variable `REACT_APP_GITHUB_TOKEN`.  This token can be stored in `.env.local` that is ignored by Git.  The file [`.env.local.example`](./.env.local.example) shows how the token should be stored.
